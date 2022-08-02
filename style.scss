@@ -1,0 +1,39 @@
+@import url("https://use.typekit.net/cmr6dum.css");
+
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    margin: 1rem;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+h1 {
+    padding-top: 1rem;
+    text-align: center;
+    font-family: bungee, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.image-container {
+    display: block;
+    max-width: 800px;
+    margin: auto;
+    text-align:center;
+}
+
+.image-container img {
+    display:inline-block;
+    margin: 0.5rem;
+}
