@@ -9,7 +9,7 @@ body {
   margin: 1rem;
   min-height: 100vh;
   overflow-x: hidden;
-  background-image: url("uploads/dots.jpg");
+  background-image: url("https://meilune.github.io/infinite-scroll/uploads/dots.jpg");
 }
 
 h1 {
